@@ -1,0 +1,47 @@
+PODS:
+  - Bolts (1.4.0):
+    - Bolts/AppLinks (= 1.4.0)
+    - Bolts/Tasks (= 1.4.0)
+  - Bolts/AppLinks (1.4.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.4.0)
+  - CameraEngine (0.4)
+  - CTAssetsPickerController (3.1.1):
+    - PureLayout (~> 3.0.0)
+  - FCFileManager (1.0.17)
+  - KVNProgress (2.2.1)
+  - Masonry (0.6.3)
+  - PBJVideoPlayer (0.2.4)
+  - PBJVision (0.4.2)
+  - PureLayout (3.0.1)
+  - STColorPicker (1.0.0)
+  - UIImage-ResizeMagick (0.0.1)
+
+DEPENDENCIES:
+  - Bolts
+  - CameraEngine
+  - CTAssetsPickerController
+  - FCFileManager
+  - KVNProgress
+  - Masonry
+  - PBJVideoPlayer
+  - PBJVision
+  - STColorPicker
+  - UIImage-ResizeMagick
+
+SPEC CHECKSUMS:
+  Bolts: 0e9bce58b9b9f5e8a7a4d47b16d2fabec289072b
+  CameraEngine: 8766440238e949fcfb6a062b15ac3326ef150e05
+  CTAssetsPickerController: 6fba9134a230656ffe34ac0effb0060a1ead65cb
+  FCFileManager: 8bfc931ce2a6223676147e9baf0e8a65c691eca6
+  KVNProgress: 7001d2d16a2755cee5599e8e485befe056f2197b
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+  PBJVideoPlayer: 69e94215f248409735db936225f6b92a4b268389
+  PBJVision: fe43c9a58bb1c1277d16fd802fa836d25e034a45
+  PureLayout: f35f5384c9c4e4479df041dbe33ad7577b71ddfb
+  STColorPicker: 110b5caf7399b38953f5e22ad3671e5030c2aa5a
+  UIImage-ResizeMagick: f08c2d14d1e8a5f0b402185408785540562f2fe7
+
+PODFILE CHECKSUM: 38f02c6667507d04f5dbd92b1f50670c3150a3aa
+
+COCOAPODS: 1.0.0
